@@ -64,3 +64,14 @@ Nov  1 10:27:22 kichain kid[1798049]: #033[90m10:27AM#033[0m #033[32mINF#033[0m 
 Nov  1 10:27:22 kichain kid[1798049]: #033[90m10:27AM#033[0m #033[32mINF#033[0m committed state #033[36mapp_hash=#033[0mAED0CE0D7B48CE9F3F99718835F2232A9C9067D0D0654403EB8218837E2CE6A6 #033[36mheight=#033[0m23409275 #033[36mmodule=#033[0mstate #033[36mnum_txs=#033[0m1
 Nov  1 10:27:22 kichain kid[1798049]: #033[90m10:27AM#033[0m #033[32mINF#033[0m indexed block exents #033[36mheight=#033[0m23409275 #033[36mmodule=#033[0mtxindex
 
+Nov  1 10:38:53 kichain kid[1798049]: #033[90m10:38AM#033[0m #033[32mINF#033[0m finalizing commit of block #033[36mhash=#033[0m{} #033[36mheight=#033[0m23409399 #033[36mmodule=#033[0mconsensus #033[36mnum_txs=#033[0m0 #033[36mroot=#033[0m2C06CE4114D16F9CEA416B0A65E890D7E1B69F013BB01579AC3952914F470BDD
+Nov  1 10:38:53 kichain kid[1798049]: #033[90m10:38AM#033[0m #033[32mINF#033[0m minted coins from module account #033[36mamount=#033[0m9505223uxki #033[36mfrom=#033[0mmint #033[36mmodule=#033[0mx/bank
+Nov  1 10:38:53 kichain kid[1798049]: #033[90m10:38AM#033[0m #033[32mINF#033[0m executed block #033[36mheight=#033[0m23409399 #033[36mmodule=#033[0mstate #033[36mnum_invalid_txs=#033[0m0 #033[36mnum_valid_txs=#033[0m0
+Nov  1 10:38:53 kichain kid[1798049]: #033[90m10:38AM#033[0m #033[32mINF#033[0m commit synced #033[36mcommit=#033[0m436F6D6D697449447B5B313036203131322032323220333920322031363920323533203137362032312034332039312032313420313920323438203438203136362031383020313137203333203935203134372032353220313220313239203135362031333620313531203134352036372033342036352037345D3A313635333246377D
+Nov  1 10:38:53 kichain kid[1798049]: #033[90m10:38AM#033[0m #033[32mINF#033[0m committed state #033[36mapp_hash=#033[0m6A70DE2702A9FDB0152B5BD613F830A6B475215F93FC0C819C8897914322414A #033[36mheight=#033[0m23409399 #033[36mmodule=#033[0mstate #033[36mnum_txs=#033[0m0
+Nov  1 10:38:53 kichain kid[1798049]: #033[90m10:38AM#033[0m #033[32mINF#033[0m indexed block exents #033[36mheight=#033[0m23409399 #033[36mmodule=#033[0mtxindex
+Nov  1 10:38:56 kichain squid[1458781]: Logfile: opening log stdio:/var/spool/squid/netdb.state
+Nov  1 10:38:56 kichain squid[1458781]: Logfile: closing log stdio:/var/spool/squid/netdb.state
+Nov  1 10:38:56 kichain squid[1458781]: NETDB state saved; 0 entries, 1 msec
+Nov  1 10:38:58 kichain kid[1798049]: #033[90m10:38AM#033[0m #033[32mINF#033[0m Timed out #033[36mdur=#033[0m4914.184691 #033[36mheight=#033[0m23409400 #033[36mmodule=#033[0mconsensus #033[36mround=#033[0m0 #033[36mstep=#033[0m1
+
