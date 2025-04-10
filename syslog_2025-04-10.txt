@@ -1,0 +1,11 @@
+Apr 10 07:09:00 kichain kid[1714651]: #033[90m7:09AM#033[0m #033[32mINF#033[0m finalizing commit of block #033[36mhash=#033[0m{} #033[36mheight=#033[0m25899864 #033[36mmodule=#033[0mconsensus #033[36mnum_txs=#033[0m0 #033[36mroot=#033[0mD1ACE95BECCE3382AE2A513EFD51D903C48455B84D902A9B671CC4B6B81FF95E
+Apr 10 07:09:00 kichain kid[1714651]: #033[90m7:09AM#033[0m #033[32mINF#033[0m minted coins from module account #033[36mamount=#033[0m9695221uxki #033[36mfrom=#033[0mmint #033[36mmodule=#033[0mx/bank
+Apr 10 07:09:00 kichain kid[1714651]: #033[90m7:09AM#033[0m #033[32mINF#033[0m executed block #033[36mheight=#033[0m25899864 #033[36mmodule=#033[0mstate #033[36mnum_invalid_txs=#033[0m0 #033[36mnum_valid_txs=#033[0m0
+Apr 10 07:09:00 kichain kid[1714651]: #033[90m7:09AM#033[0m #033[32mINF#033[0m commit synced #033[36mcommit=#033[0m436F6D6D697449447B5B3231322031303720323431203233312038352032303120323130203230332031393420382031373120323130203835203231342031323920313536203132322037382031353420313533203234332032313020343720313136203730203831203136372033302036382031303520313031203232395D3A313842333335387D
+Apr 10 07:09:00 kichain kid[1714651]: #033[90m7:09AM#033[0m #033[32mINF#033[0m committed state #033[36mapp_hash=#033[0mD46BF1E755C9D2CBC208ABD255D6819C7A4E9A99F3D22F744651A71E446965E5 #033[36mheight=#033[0m25899864 #033[36mmodule=#033[0mstate #033[36mnum_txs=#033[0m0
+Apr 10 07:09:00 kichain kid[1714651]: #033[90m7:09AM#033[0m #033[32mINF#033[0m indexed block exents #033[36mheight=#033[0m25899864 #033[36mmodule=#033[0mtxindex
+Apr 10 07:09:00 kichain systemd[1]: Starting Clean php session files...
+Apr 10 07:09:01 kichain CRON[3130863]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Apr 10 07:09:01 kichain systemd[1]: phpsessionclean.service: Succeeded.
+Apr 10 07:09:01 kichain systemd[1]: Finished Clean php session files.
+
