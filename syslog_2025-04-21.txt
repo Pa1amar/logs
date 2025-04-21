@@ -207,3 +207,14 @@ Apr 21 17:03:10 kichain kid[1714651]: #033[90m5:03PM#033[0m #033[32mINF#033[0m c
 Apr 21 17:03:10 kichain kid[1714651]: #033[90m5:03PM#033[0m #033[32mINF#033[0m committed state #033[36mapp_hash=#033[0m8CDF1F9CF5484C401DD8EAB54411A76AF95F3DB034F2F02215E855115BF1223A #033[36mheight=#033[0m26078377 #033[36mmodule=#033[0mstate #033[36mnum_txs=#033[0m0
 Apr 21 17:03:10 kichain kid[1714651]: #033[90m5:03PM#033[0m #033[32mINF#033[0m indexed block exents #033[36mheight=#033[0m26078377 #033[36mmodule=#033[0mtxindex
 
+Apr 21 17:21:00 kichain kid[1714651]: #033[90m5:21PM#033[0m #033[32mINF#033[0m minted coins from module account #033[36mamount=#033[0m9708914uxki #033[36mfrom=#033[0mmint #033[36mmodule=#033[0mx/bank
+Apr 21 17:21:00 kichain kid[1714651]: #033[90m5:21PM#033[0m #033[32mINF#033[0m burned tokens from module account #033[36mamount=#033[0m50000uxki #033[36mfrom=#033[0mwasm #033[36mmodule=#033[0mx/bank
+Apr 21 17:21:00 kichain kid[1714651]: #033[90m5:21PM#033[0m #033[32mINF#033[0m Burned #033[36mamount=#033[0m[{"amount":"50000","denom":"uxki"}] #033[36mmodule=#033[0mx/wasm
+Apr 21 17:21:00 kichain kid[1714651]: #033[90m5:21PM#033[0m #033[32mINF#033[0m executed block #033[36mheight=#033[0m26078570 #033[36mmodule=#033[0mstate #033[36mnum_invalid_txs=#033[0m0 #033[36mnum_valid_txs=#033[0m1
+Apr 21 17:21:00 kichain kid[1714651]: #033[90m5:21PM#033[0m #033[32mINF#033[0m commit synced #033[36mcommit=#033[0m436F6D6D697449447B5B313332203138203936203133362032333620313331203631203832203131302034312031372032303720333220313437203235332031352031333220313620363620313620382035312032342034342039322032323520343720313539203137392031343820323035203232305D3A313844454436417D
+Apr 21 17:21:00 kichain kid[1714651]: #033[90m5:21PM#033[0m #033[32mINF#033[0m committed state #033[36mapp_hash=#033[0m84126088EC833D526E2911CF2093FD0F841042100833182C5CE12F9FB394CDDC #033[36mheight=#033[0m26078570 #033[36mmodule=#033[0mstate #033[36mnum_txs=#033[0m1
+Apr 21 17:21:00 kichain kid[1714651]: #033[90m5:21PM#033[0m #033[32mINF#033[0m indexed block exents #033[36mheight=#033[0m26078570 #033[36mmodule=#033[0mtxindex
+Apr 21 17:21:02 kichain kid[1714651]: #033[90m5:21PM#033[0m #033[32mINF#033[0m Ensure peers #033[36mmodule=#033[0mpex #033[36mnumDialing=#033[0m0 #033[36mnumInPeers=#033[0m38 #033[36mnumOutPeers=#033[0m10 #033[36mnumToDial=#033[0m0
+Apr 21 17:21:02 kichain kid[1714651]: #033[90m5:21PM#033[0m #033[32mINF#033[0m Saving AddrBook to file #033[36mbook=#033[0m/root/.kid/config/addrbook.json #033[36mmodule=#033[0mp2p #033[36msize=#033[0m279
+Apr 21 17:21:05 kichain kid[1714651]: #033[90m5:21PM#033[0m #033[32mINF#033[0m Timed out #033[36mdur=#033[0m4714.946027 #033[36mheight=#033[0m26078571 #033[36mmodule=#033[0mconsensus #033[36mround=#033[0m0 #033[36mstep=#033[0m1
+
