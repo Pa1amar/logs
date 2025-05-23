@@ -295,3 +295,14 @@ May 23 21:53:35 kichain kid[1714651]: #033[90m9:53PM#033[0m #033[32mINF#033[0m c
 May 23 21:53:35 kichain kid[1714651]: #033[90m9:53PM#033[0m #033[32mINF#033[0m committed state #033[36mapp_hash=#033[0m4C319AE6DB90177A5191C814DA36261793C47EDF2860DA7519CCAF675400B1DC #033[36mheight=#033[0m26581354 #033[36mmodule=#033[0mstate #033[36mnum_txs=#033[0m0
 May 23 21:53:35 kichain kid[1714651]: #033[90m9:53PM#033[0m #033[32mINF#033[0m indexed block exents #033[36mheight=#033[0m26581354 #033[36mmodule=#033[0mtxindex
 
+May 23 22:46:06 kichain kid[1714651]: #033[90m10:46PM#033[0m #033[32mINF#033[0m finalizing commit of block #033[36mhash=#033[0m{} #033[36mheight=#033[0m26581924 #033[36mmodule=#033[0mconsensus #033[36mnum_txs=#033[0m0 #033[36mroot=#033[0m2FBA61672207062434BD84B537009A7E5FE7D9FE69332B818094524575CB30DA
+May 23 22:46:06 kichain kid[1714651]: #033[90m10:46PM#033[0m #033[32mINF#033[0m minted coins from module account #033[36mamount=#033[0m9748149uxki #033[36mfrom=#033[0mmint #033[36mmodule=#033[0mx/bank
+May 23 22:46:06 kichain kid[1714651]: #033[90m10:46PM#033[0m #033[32mINF#033[0m executed block #033[36mheight=#033[0m26581924 #033[36mmodule=#033[0mstate #033[36mnum_invalid_txs=#033[0m0 #033[36mnum_valid_txs=#033[0m0
+May 23 22:46:06 kichain kid[1714651]: #033[90m10:46PM#033[0m #033[32mINF#033[0m commit synced #033[36mcommit=#033[0m436F6D6D697449447B5B3131322032343620313731203932203136372037322036372031353720383220313237203835203133332031313920323331203133302031203135332034392030203136382031322036392036322031323720323330203320313038203539203235342032313520372036395D3A313935394241347D
+May 23 22:46:06 kichain kid[1714651]: #033[90m10:46PM#033[0m #033[32mINF#033[0m committed state #033[36mapp_hash=#033[0m70F6AB5CA748439D527F558577E78201993100A80C453E7FE6036C3BFED70745 #033[36mheight=#033[0m26581924 #033[36mmodule=#033[0mstate #033[36mnum_txs=#033[0m0
+May 23 22:46:06 kichain kid[1714651]: #033[90m10:46PM#033[0m #033[32mINF#033[0m indexed block exents #033[36mheight=#033[0m26581924 #033[36mmodule=#033[0mtxindex
+May 23 22:46:07 kichain systemd[1]: Starting Refresh fwupd metadata and update motd...
+May 23 22:46:08 kichain systemd[1]: fwupd-refresh.service: Main process exited, code=exited, status=1/FAILURE
+May 23 22:46:08 kichain systemd[1]: fwupd-refresh.service: Failed with result 'exit-code'.
+May 23 22:46:08 kichain systemd[1]: Failed to start Refresh fwupd metadata and update motd.
+
