@@ -163,3 +163,14 @@ May 26 13:08:22 kichain kid[1714651]: #033[90m1:08PM#033[0m #033[32mINF#033[0m c
 May 26 13:08:22 kichain kid[1714651]: #033[90m1:08PM#033[0m #033[32mINF#033[0m committed state #033[36mapp_hash=#033[0mD21C19203366C098FBCF03329B10D63BE86951BB95E633F1C6F1CC53A6ED7B08 #033[36mheight=#033[0m26622555 #033[36mmodule=#033[0mstate #033[36mnum_txs=#033[0m0
 May 26 13:08:22 kichain kid[1714651]: #033[90m1:08PM#033[0m #033[32mINF#033[0m indexed block exents #033[36mheight=#033[0m26622555 #033[36mmodule=#033[0mtxindex
 
+May 26 13:09:02 kichain kid[1714651]: #033[90m1:09PM#033[0m #033[32mINF#033[0m Saving AddrBook to file #033[36mbook=#033[0m/root/.kid/config/addrbook.json #033[36mmodule=#033[0mp2p #033[36msize=#033[0m65
+May 26 13:09:02 kichain kid[1714651]: #033[90m1:09PM#033[0m #033[32mINF#033[0m We need more addresses. Sending pexRequest to random peer #033[36mmodule=#033[0mpex #033[36mpeer=#033[0m{"Data":{},"Logger":{}}
+May 26 13:09:02 kichain kid[1714651]: #033[90m1:09PM#033[0m #033[32mINF#033[0m Add address to blacklist #033[36maddr=#033[0m{"id":"3d5fce43bb7733a1edf22e4a9c9b2cb65c0e99de","ip":"178.128.88.156","port":26656} #033[36mbook=#033[0m/root/.kid/config/addrbook.json #033[36mmodule=#033[0mp2p
+May 26 13:09:02 kichain kid[1714651]: #033[90m1:09PM#033[0m #033[32mINF#033[0m Remove address from book #033[36maddr=#033[0m{"id":"3d5fce43bb7733a1edf22e4a9c9b2cb65c0e99de","ip":"178.128.88.156","port":26656} #033[36mbook=#033[0m/root/.kid/config/addrbook.json #033[36mmodule=#033[0mp2p
+May 26 13:09:04 kichain systemd[1]: Starting Clean php session files...
+May 26 13:09:04 kichain systemd[1]: phpsessionclean.service: Succeeded.
+May 26 13:09:04 kichain systemd[1]: Finished Clean php session files.
+May 26 13:09:06 kichain kid[1714651]: #033[90m1:09PM#033[0m #033[32mINF#033[0m Timed out #033[36mdur=#033[0m4939.821853 #033[36mheight=#033[0m26622563 #033[36mmodule=#033[0mconsensus #033[36mround=#033[0m0 #033[36mstep=#033[0m1
+May 26 13:09:06 kichain kid[1714651]: #033[90m1:09PM#033[0m #033[32mINF#033[0m received proposal #033[36mmodule=#033[0mconsensus #033[36mproposal=#033[0m{"Type":32,"block_id":{"hash":"9C0FD7DF96E2FB312EF3878D321FCB53B3738AF0E935621FEFB1F382C49E3E64","parts":{"hash":"3897529ADD5F6B2362E02DCA72050713929BF0BBFD1D87973A7EFE741C5DB90C","total":1}},"height":26622563,"pol_round":-1,"round":0,"signature":"vkOz+FKPLwWGVRi5Jk+en06B1DWzvu4MmpiXReUTakfxkaAt2Qe7Rm6n1wutM9oh+M8rlWYoG/vm5K5zOzmBAg==","timestamp":"2025-05-26T13:09:06.631919391Z"}
+May 26 13:09:06 kichain kid[1714651]: #033[90m1:09PM#033[0m #033[32mINF#033[0m received complete proposal block #033[36mhash=#033[0m9C0FD7DF96E2FB312EF3878D321FCB53B3738AF0E935621FEFB1F382C49E3E64 #033[36mheight=#033[0m26622563 #033[36mmodule=#033[0mconsensus
+
