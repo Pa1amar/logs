@@ -42,3 +42,14 @@ Jun 13 08:36:11 kichain kid[1714651]: #033[90m8:36AM#033[0m #033[32mINF#033[0m c
 Jun 13 08:36:11 kichain kid[1714651]: #033[90m8:36AM#033[0m #033[32mINF#033[0m indexed block exents #033[36mheight=#033[0m26895485 #033[36mmodule=#033[0mtxindex
 Jun 13 08:36:16 kichain kid[1714651]: #033[90m8:36AM#033[0m #033[32mINF#033[0m Timed out #033[36mdur=#033[0m4948.892106 #033[36mheight=#033[0m26895486 #033[36mmodule=#033[0mconsensus #033[36mround=#033[0m0 #033[36mstep=#033[0m1
 
+Jun 13 08:51:58 kichain kid[1714651]: #033[90m8:51AM#033[0m #033[32mINF#033[0m indexed block exents #033[36mheight=#033[0m26895653 #033[36mmodule=#033[0mtxindex
+Jun 13 08:52:02 kichain kid[1714651]: #033[90m8:52AM#033[0m #033[32mINF#033[0m Ensure peers #033[36mmodule=#033[0mpex #033[36mnumDialing=#033[0m0 #033[36mnumInPeers=#033[0m38 #033[36mnumOutPeers=#033[0m9 #033[36mnumToDial=#033[0m1
+Jun 13 08:52:02 kichain kid[1714651]: #033[90m8:52AM#033[0m #033[32mINF#033[0m We need more addresses. Sending pexRequest to random peer #033[36mmodule=#033[0mpex #033[36mpeer=#033[0m{"Data":{},"Logger":{}}
+Jun 13 08:52:02 kichain kid[1714651]: #033[90m8:52AM#033[0m #033[32mINF#033[0m No addresses to dial. Falling back to seeds #033[36mmodule=#033[0mpex
+Jun 13 08:52:02 kichain kid[1714651]: #033[90m8:52AM#033[0m #033[32mINF#033[0m Dialing peer #033[36maddress=#033[0m{"id":"24cbccfa8813accd0ebdb09e7cdb54cff2e8fcd9","ip":"51.89.166.197","port":26656} #033[36mmodule=#033[0mp2p
+Jun 13 08:52:02 kichain kid[1714651]: #033[90m8:52AM#033[0m #033[1m#033[31mERR#033[0m#033[0m Error dialing seed #033[36merr=#033[0m"dial tcp 51.89.166.197:26656: connect: connection refused" #033[36mmodule=#033[0mp2p #033[36mseed=#033[0m{"id":"24cbccfa8813accd0ebdb09e7cdb54cff2e8fcd9","ip":"51.89.166.197","port":26656}
+Jun 13 08:52:02 kichain kid[1714651]: #033[90m8:52AM#033[0m #033[1m#033[31mERR#033[0m#033[0m Couldn't connect to any seeds #033[36mmodule=#033[0mp2p
+Jun 13 08:52:03 kichain kid[1714651]: #033[90m8:52AM#033[0m #033[32mINF#033[0m Timed out #033[36mdur=#033[0m4919.903068 #033[36mheight=#033[0m26895654 #033[36mmodule=#033[0mconsensus #033[36mround=#033[0m0 #033[36mstep=#033[0m1
+Jun 13 08:52:03 kichain kid[1714651]: #033[90m8:52AM#033[0m #033[32mINF#033[0m received proposal #033[36mmodule=#033[0mconsensus #033[36mproposal=#033[0m{"Type":32,"block_id":{"hash":"A0ED231C1BE69F4008C689DA7F8BE27A2F83EAA152000785AF5DBF67AA87D25C","parts":{"hash":"5B59539DE2F4930292000586233E36E3CFD515571C666D67690C74FC8F2B5CB3","total":1}},"height":26895654,"pol_round":-1,"round":0,"signature":"fiZHOeSkfIRwlcZ+yqNDjFseUZ0l12zZHhiWvvVELyHXER57WmwM5z6TGnrfOgs4azo1zxu0Dp4uEtSUHdV6AA==","timestamp":"2025-06-13T08:52:03.160009746Z"}
+Jun 13 08:52:03 kichain kid[1714651]: #033[90m8:52AM#033[0m #033[32mINF#033[0m received complete proposal block #033[36mhash=#033[0mA0ED231C1BE69F4008C689DA7F8BE27A2F83EAA152000785AF5DBF67AA87D25C #033[36mheight=#033[0m26895654 #033[36mmodule=#033[0mconsensus
+
