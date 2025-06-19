@@ -20,3 +20,14 @@ Jun 19 07:56:41 kichain kid[1714651]: #033[90m7:56AM#033[0m #033[32mINF#033[0m c
 Jun 19 07:56:41 kichain kid[1714651]: #033[90m7:56AM#033[0m #033[32mINF#033[0m indexed block exents #033[36mheight=#033[0m26987017 #033[36mmodule=#033[0mtxindex
 Jun 19 07:56:46 kichain kid[1714651]: #033[90m7:56AM#033[0m #033[32mINF#033[0m Timed out #033[36mdur=#033[0m4934.594146 #033[36mheight=#033[0m26987018 #033[36mmodule=#033[0mconsensus #033[36mround=#033[0m0 #033[36mstep=#033[0m1
 
+Jun 19 08:28:02 kichain kid[1714651]: #033[90m8:28AM#033[0m #033[32mINF#033[0m executed block #033[36mheight=#033[0m26987350 #033[36mmodule=#033[0mstate #033[36mnum_invalid_txs=#033[0m0 #033[36mnum_valid_txs=#033[0m0
+Jun 19 08:28:02 kichain kid[1714651]: #033[90m8:28AM#033[0m #033[32mINF#033[0m commit synced #033[36mcommit=#033[0m436F6D6D697449447B5B3139203931203534203232372036203434203139302033372036322032362031393020313938203231203130342031363320313220313931203130302036352036382031373620313535203733203939203131342032312032323020333520323436203230302036362038345D3A313942434235367D
+Jun 19 08:28:02 kichain kid[1714651]: #033[90m8:28AM#033[0m #033[32mINF#033[0m committed state #033[36mapp_hash=#033[0m135B36E3062CBE253E1ABEC61568A30CBF644144B09B49637215DC23F6C84254 #033[36mheight=#033[0m26987350 #033[36mmodule=#033[0mstate #033[36mnum_txs=#033[0m0
+Jun 19 08:28:02 kichain kid[1714651]: #033[90m8:28AM#033[0m #033[32mINF#033[0m indexed block exents #033[36mheight=#033[0m26987350 #033[36mmodule=#033[0mtxindex
+Jun 19 08:28:02 kichain kid[1714651]: #033[90m8:28AM#033[0m #033[32mINF#033[0m Ensure peers #033[36mmodule=#033[0mpex #033[36mnumDialing=#033[0m0 #033[36mnumInPeers=#033[0m39 #033[36mnumOutPeers=#033[0m8 #033[36mnumToDial=#033[0m2
+Jun 19 08:28:02 kichain kid[1714651]: #033[90m8:28AM#033[0m #033[32mINF#033[0m We need more addresses. Sending pexRequest to random peer #033[36mmodule=#033[0mpex #033[36mpeer=#033[0m{"Data":{},"Logger":{}}
+Jun 19 08:28:02 kichain kid[1714651]: #033[90m8:28AM#033[0m #033[32mINF#033[0m Dialing peer #033[36maddress=#033[0m{"id":"2088a9e86b4cb5140bf0c2830d4ab6824c85c4aa","ip":"51.255.91.58","port":6969} #033[36mmodule=#033[0mp2p
+Jun 19 08:28:02 kichain kid[1714651]: #033[90m8:28AM#033[0m #033[32mINF#033[0m service start #033[36mimpl=#033[0m"Peer{MConn{51.255.91.58:6969} 2088a9e86b4cb5140bf0c2830d4ab6824c85c4aa out}" #033[36mmodule=#033[0mp2p #033[36mmsg=#033[0m{} #033[36mpeer=#033[0m{"id":"2088a9e86b4cb5140bf0c2830d4ab6824c85c4aa","ip":"51.255.91.58","port":6969}
+Jun 19 08:28:02 kichain kid[1714651]: #033[90m8:28AM#033[0m #033[32mINF#033[0m service start #033[36mimpl=#033[0mMConn{51.255.91.58:6969} #033[36mmodule=#033[0mp2p #033[36mmsg=#033[0m{} #033[36mpeer=#033[0m{"id":"2088a9e86b4cb5140bf0c2830d4ab6824c85c4aa","ip":"51.255.91.58","port":6969}
+Jun 19 08:28:02 kichain kid[1714651]: #033[90m8:28AM#033[0m #033[32mINF#033[0m Added peer #033[36mmodule=#033[0mp2p #033[36mpeer=#033[0m{"Data":{},"Logger":{}}
+
