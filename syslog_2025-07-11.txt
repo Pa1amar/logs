@@ -31,3 +31,14 @@ Jul 11 08:59:29 kichain kid[1714651]: #033[90m8:59AM#033[0m #033[32mINF#033[0m c
 Jul 11 08:59:29 kichain kid[1714651]: #033[90m8:59AM#033[0m #033[32mINF#033[0m committed state #033[36mapp_hash=#033[0m1CF7654722D106E9F52AE874D93FC32113D2F8B049EECBC17536084C5532B81D #033[36mheight=#033[0m27325673 #033[36mmodule=#033[0mstate #033[36mnum_txs=#033[0m0
 Jul 11 08:59:29 kichain kid[1714651]: #033[90m8:59AM#033[0m #033[32mINF#033[0m indexed block exents #033[36mheight=#033[0m27325673 #033[36mmodule=#033[0mtxindex
 
+Jul 11 09:33:02 kichain kid[1714651]: #033[90m9:33AM#033[0m #033[32mINF#033[0m No addresses to dial. Falling back to seeds #033[36mmodule=#033[0mpex
+Jul 11 09:33:02 kichain kid[1714651]: #033[90m9:33AM#033[0m #033[32mINF#033[0m Dialing peer #033[36maddress=#033[0m{"id":"24cbccfa8813accd0ebdb09e7cdb54cff2e8fcd9","ip":"51.89.166.197","port":26656} #033[36mmodule=#033[0mp2p
+Jul 11 09:33:02 kichain kid[1714651]: #033[90m9:33AM#033[0m #033[1m#033[31mERR#033[0m#033[0m Error dialing seed #033[36merr=#033[0m"dial tcp 51.89.166.197:26656: connect: connection refused" #033[36mmodule=#033[0mp2p #033[36mseed=#033[0m{"id":"24cbccfa8813accd0ebdb09e7cdb54cff2e8fcd9","ip":"51.89.166.197","port":26656}
+Jul 11 09:33:02 kichain kid[1714651]: #033[90m9:33AM#033[0m #033[1m#033[31mERR#033[0m#033[0m Couldn't connect to any seeds #033[36mmodule=#033[0mp2p
+Jul 11 09:33:03 kichain kid[1714651]: #033[90m9:33AM#033[0m #033[32mINF#033[0m finalizing commit of block #033[36mhash=#033[0m{} #033[36mheight=#033[0m27326032 #033[36mmodule=#033[0mconsensus #033[36mnum_txs=#033[0m0 #033[36mroot=#033[0m1BB4C9D60DCC88C2E088AA11F16831DCB3121705370486296EF2271B8B3BBD10
+Jul 11 09:33:03 kichain kid[1714651]: #033[90m9:33AM#033[0m #033[32mINF#033[0m minted coins from module account #033[36mamount=#033[0m9806456uxki #033[36mfrom=#033[0mmint #033[36mmodule=#033[0mx/bank
+Jul 11 09:33:03 kichain kid[1714651]: #033[90m9:33AM#033[0m #033[32mINF#033[0m executed block #033[36mheight=#033[0m27326032 #033[36mmodule=#033[0mstate #033[36mnum_invalid_txs=#033[0m0 #033[36mnum_valid_txs=#033[0m0
+Jul 11 09:33:03 kichain kid[1714651]: #033[90m9:33AM#033[0m #033[32mINF#033[0m commit synced #033[36mcommit=#033[0m436F6D6D697449447B5B37302032382032323020373920313538203230203232203239203132322038352032323220333120313834203234332031363820313338203137372031352032353220323133203234392031322031363420313332203235302031303320313938203137203234203539203530203130395D3A314130463635307D
+Jul 11 09:33:03 kichain kid[1714651]: #033[90m9:33AM#033[0m #033[32mINF#033[0m committed state #033[36mapp_hash=#033[0m461CDC4F9E14161D7A55DE1FB8F3A88AB10FFCD5F90CA484FA67C611183B326D #033[36mheight=#033[0m27326032 #033[36mmodule=#033[0mstate #033[36mnum_txs=#033[0m0
+Jul 11 09:33:03 kichain kid[1714651]: #033[90m9:33AM#033[0m #033[32mINF#033[0m indexed block exents #033[36mheight=#033[0m27326032 #033[36mmodule=#033[0mtxindex
+
