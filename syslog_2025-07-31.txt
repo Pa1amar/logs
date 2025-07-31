@@ -196,3 +196,14 @@ Jul 31 16:43:05 kichain kid[1266713]: #033[90m4:43PM#033[0m #033[32mINF#033[0m c
 Jul 31 16:43:05 kichain kid[1266713]: #033[90m4:43PM#033[0m #033[32mINF#033[0m committed state #033[36mapp_hash=#033[0m7680DF15424C23224393D31A7FB372C067C645D96D035BA55208A60F9C2DAF9E #033[36mheight=#033[0m27638336 #033[36mmodule=#033[0mstate #033[36mnum_txs=#033[0m0
 Jul 31 16:43:05 kichain kid[1266713]: #033[90m4:43PM#033[0m #033[32mINF#033[0m indexed block exents #033[36mheight=#033[0m27638336 #033[36mmodule=#033[0mtxindex
 
+Jul 31 17:12:55 kichain kid[1266713]: #033[90m5:12PM#033[0m #033[32mINF#033[0m finalizing commit of block #033[36mhash=#033[0m{} #033[36mheight=#033[0m27638655 #033[36mmodule=#033[0mconsensus #033[36mnum_txs=#033[0m0 #033[36mroot=#033[0m113A02CE7C9E04F247D0C5390C155E995D7767D8BD02182201F6AAA5BC7135EA
+Jul 31 17:12:55 kichain kid[1266713]: #033[90m5:12PM#033[0m #033[32mINF#033[0m minted coins from module account #033[36mamount=#033[0m9831064uxki #033[36mfrom=#033[0mmint #033[36mmodule=#033[0mx/bank
+Jul 31 17:12:55 kichain kid[1266713]: #033[90m5:12PM#033[0m #033[32mINF#033[0m executed block #033[36mheight=#033[0m27638655 #033[36mmodule=#033[0mstate #033[36mnum_invalid_txs=#033[0m0 #033[36mnum_valid_txs=#033[0m0
+Jul 31 17:12:55 kichain kid[1266713]: #033[90m5:12PM#033[0m #033[32mINF#033[0m commit synced #033[36mcommit=#033[0m436F6D6D697449447B5B3130362032303820313531203233342031383820313833203239203832203233382032342032303120313138203130372035322038332031343120313635203136203231203231332032303820383220383620343520393820313836203135322032333620323331203133372039342033345D3A314135424237467D
+Jul 31 17:12:55 kichain kid[1266713]: #033[90m5:12PM#033[0m #033[32mINF#033[0m committed state #033[36mapp_hash=#033[0m6AD097EABCB71D52EE18C9766B34538DA51015D5D052562D62BA98ECE7895E22 #033[36mheight=#033[0m27638655 #033[36mmodule=#033[0mstate #033[36mnum_txs=#033[0m0
+Jul 31 17:12:55 kichain kid[1266713]: #033[90m5:12PM#033[0m #033[32mINF#033[0m indexed block exents #033[36mheight=#033[0m27638655 #033[36mmodule=#033[0mtxindex
+Jul 31 17:12:55 kichain kid[1266713]: #033[90m5:12PM#033[0m #033[32mINF#033[0m Ensure peers #033[36mmodule=#033[0mpex #033[36mnumDialing=#033[0m0 #033[36mnumInPeers=#033[0m28 #033[36mnumOutPeers=#033[0m9 #033[36mnumToDial=#033[0m1
+Jul 31 17:12:55 kichain kid[1266713]: #033[90m5:12PM#033[0m #033[32mINF#033[0m We need more addresses. Sending pexRequest to random peer #033[36mmodule=#033[0mpex #033[36mpeer=#033[0m{"Data":{},"Logger":{}}
+Jul 31 17:12:55 kichain kid[1266713]: #033[90m5:12PM#033[0m #033[32mINF#033[0m Dialing peer #033[36maddress=#033[0m{"id":"4fb066db7573edb8c8cef365879b3d8e97f2bb9b","ip":"95.216.242.158","port":26826} #033[36mmodule=#033[0mp2p
+Jul 31 17:12:55 kichain kid[1266713]: #033[90m5:12PM#033[0m #033[32mINF#033[0m Saving AddrBook to file #033[36mbook=#033[0m/root/.kid/config/addrbook.json #033[36mmodule=#033[0mp2p #033[36msize=#033[0m567
+
