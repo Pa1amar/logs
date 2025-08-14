@@ -97,3 +97,14 @@ Aug 14 12:48:29 kichain kid[1266713]: #033[90m12:48PM#033[0m #033[32mINF#033[0m 
 Aug 14 12:48:29 kichain kid[1266713]: #033[90m12:48PM#033[0m #033[32mINF#033[0m committed state #033[36mapp_hash=#033[0m52B5948FCD07B80B02F1F6DFAE9B07999E83B25443EFC013A75134F388C13983 #033[36mheight=#033[0m27852302 #033[36mmodule=#033[0mstate #033[36mnum_txs=#033[0m0
 Aug 14 12:48:29 kichain kid[1266713]: #033[90m12:48PM#033[0m #033[32mINF#033[0m indexed block exents #033[36mheight=#033[0m27852302 #033[36mmodule=#033[0mtxindex
 
+Aug 14 13:09:55 kichain kid[1266713]: #033[90m1:09PM#033[0m #033[32mINF#033[0m Ensure peers #033[36mmodule=#033[0mpex #033[36mnumDialing=#033[0m0 #033[36mnumInPeers=#033[0m26 #033[36mnumOutPeers=#033[0m9 #033[36mnumToDial=#033[0m1
+Aug 14 13:09:55 kichain kid[1266713]: #033[90m1:09PM#033[0m #033[32mINF#033[0m We need more addresses. Sending pexRequest to random peer #033[36mmodule=#033[0mpex #033[36mpeer=#033[0m{"Data":{},"Logger":{}}
+Aug 14 13:09:55 kichain kid[1266713]: #033[90m1:09PM#033[0m #033[32mINF#033[0m Add address to blacklist #033[36maddr=#033[0m{"id":"8ceeb7bc26777872d1ba31433d0211fc58319640","ip":"163.172.32.42","port":26656} #033[36mbook=#033[0m/root/.kid/config/addrbook.json #033[36mmodule=#033[0mp2p
+Aug 14 13:09:55 kichain kid[1266713]: #033[90m1:09PM#033[0m #033[32mINF#033[0m Remove address from book #033[36maddr=#033[0m{"id":"8ceeb7bc26777872d1ba31433d0211fc58319640","ip":"163.172.32.42","port":26656} #033[36mbook=#033[0m/root/.kid/config/addrbook.json #033[36mmodule=#033[0mp2p
+Aug 14 13:09:55 kichain kid[1266713]: #033[90m1:09PM#033[0m #033[32mINF#033[0m new bucket is full, expiring new #033[36mbook=#033[0m/root/.kid/config/addrbook.json #033[36mmodule=#033[0mp2p
+Aug 14 13:09:55 kichain kid[1266713]: #033[90m1:09PM#033[0m #033[32mINF#033[0m expire new #033[36mbook=#033[0m/root/.kid/config/addrbook.json #033[36mmodule=#033[0mp2p #033[36mmsg=#033[0m{}
+Aug 14 13:09:55 kichain kid[1266713]: #033[90m1:09PM#033[0m #033[32mINF#033[0m new bucket is full, expiring new #033[36mbook=#033[0m/root/.kid/config/addrbook.json #033[36mmodule=#033[0mp2p
+Aug 14 13:09:55 kichain kid[1266713]: #033[90m1:09PM#033[0m #033[32mINF#033[0m expire new #033[36mbook=#033[0m/root/.kid/config/addrbook.json #033[36mmodule=#033[0mp2p #033[36mmsg=#033[0m{}
+Aug 14 13:09:55 kichain kid[1266713]: #033[90m1:09PM#033[0m #033[32mINF#033[0m new bucket is full, expiring new #033[36mbook=#033[0m/root/.kid/config/addrbook.json #033[36mmodule=#033[0mp2p
+Aug 14 13:09:55 kichain kid[1266713]: #033[90m1:09PM#033[0m #033[32mINF#033[0m expire new #033[36mbook=#033[0m/root/.kid/config/addrbook.json #033[36mmodule=#033[0mp2p #033[36mmsg=#033[0m{}
+
