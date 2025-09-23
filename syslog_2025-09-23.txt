@@ -218,3 +218,14 @@ Sep 23 19:11:10 kichain squid[1458781]: Logfile: opening log stdio:/var/spool/sq
 Sep 23 19:11:10 kichain squid[1458781]: Logfile: closing log stdio:/var/spool/squid/netdb.state
 Sep 23 19:11:10 kichain squid[1458781]: NETDB state saved; 0 entries, 1 msec
 
+Sep 23 19:16:59 kichain kid[1266713]: #033[90m7:16PM#033[0m #033[32mINF#033[0m We need more addresses. Sending pexRequest to random peer #033[36mmodule=#033[0mpex #033[36mpeer=#033[0m{"Data":{},"Logger":{}}
+Sep 23 19:16:59 kichain kid[1266713]: #033[90m7:16PM#033[0m #033[32mINF#033[0m Dialing peer #033[36maddress=#033[0m{"id":"258f523c96efde50d5fe0a9faeea8a3e83be22ca","ip":"173.249.24.244","port":10267} #033[36mmodule=#033[0mp2p
+Sep 23 19:16:59 kichain kid[1266713]: #033[90m7:16PM#033[0m #033[32mINF#033[0m Saving AddrBook to file #033[36mbook=#033[0m/root/.kid/config/addrbook.json #033[36mmodule=#033[0mp2p #033[36msize=#033[0m39
+Sep 23 19:16:59 kichain kid[1266713]: #033[90m7:16PM#033[0m #033[32mINF#033[0m service start #033[36mimpl=#033[0m"Peer{MConn{173.249.24.244:10267} 258f523c96efde50d5fe0a9faeea8a3e83be22ca out}" #033[36mmodule=#033[0mp2p #033[36mmsg=#033[0m{} #033[36mpeer=#033[0m{"id":"258f523c96efde50d5fe0a9faeea8a3e83be22ca","ip":"173.249.24.244","port":10267}
+Sep 23 19:16:59 kichain kid[1266713]: #033[90m7:16PM#033[0m #033[32mINF#033[0m service start #033[36mimpl=#033[0mMConn{173.249.24.244:10267} #033[36mmodule=#033[0mp2p #033[36mmsg=#033[0m{} #033[36mpeer=#033[0m{"id":"258f523c96efde50d5fe0a9faeea8a3e83be22ca","ip":"173.249.24.244","port":10267}
+Sep 23 19:16:59 kichain kid[1266713]: #033[90m7:16PM#033[0m #033[32mINF#033[0m Added peer #033[36mmodule=#033[0mp2p #033[36mpeer=#033[0m{"Data":{},"Logger":{}}
+Sep 23 19:16:59 kichain kid[1266713]: #033[90m7:16PM#033[0m #033[32mINF#033[0m Connection is closed @ recvRoutine (likely by the other side) #033[36mconn=#033[0m{"Logger":{}} #033[36mmodule=#033[0mp2p #033[36mpeer=#033[0m{"id":"258f523c96efde50d5fe0a9faeea8a3e83be22ca","ip":"173.249.24.244","port":10267}
+Sep 23 19:16:59 kichain kid[1266713]: #033[90m7:16PM#033[0m #033[32mINF#033[0m service stop #033[36mimpl=#033[0m{"Logger":{}} #033[36mmodule=#033[0mp2p #033[36mmsg=#033[0m{} #033[36mpeer=#033[0m{"id":"258f523c96efde50d5fe0a9faeea8a3e83be22ca","ip":"173.249.24.244","port":10267}
+Sep 23 19:16:59 kichain kid[1266713]: #033[90m7:16PM#033[0m #033[1m#033[31mERR#033[0m#033[0m Stopping peer for error #033[36merr=#033[0mEOF #033[36mmodule=#033[0mp2p #033[36mpeer=#033[0m{"Data":{},"Logger":{}}
+Sep 23 19:16:59 kichain kid[1266713]: #033[90m7:16PM#033[0m #033[32mINF#033[0m service stop #033[36mimpl=#033[0m{"Data":{},"Logger":{}} #033[36mmodule=#033[0mp2p #033[36mmsg=#033[0m{} #033[36mpeer=#033[0m{"id":"258f523c96efde50d5fe0a9faeea8a3e83be22ca","ip":"173.249.24.244","port":10267}
+
