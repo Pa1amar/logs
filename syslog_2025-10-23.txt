@@ -86,3 +86,14 @@ Oct 23 11:05:49 kichain kid[1266713]: #033[90m11:05AM#033[0m #033[32mINF#033[0m 
 Oct 23 11:05:49 kichain kid[1266713]: #033[90m11:05AM#033[0m #033[32mINF#033[0m committed state #033[36mapp_hash=#033[0mA11AEC1FF2FDFC00B8FCE95C9AD15960B326CFBAD7C33854E8A9E6477855ACA7 #033[36mheight=#033[0m28934244 #033[36mmodule=#033[0mstate #033[36mnum_txs=#033[0m0
 Oct 23 11:05:49 kichain kid[1266713]: #033[90m11:05AM#033[0m #033[32mINF#033[0m indexed block exents #033[36mheight=#033[0m28934244 #033[36mmodule=#033[0mtxindex
 
+Oct 23 11:30:28 kichain kid[1266713]: #033[90m11:30AM#033[0m #033[32mINF#033[0m executed block #033[36mheight=#033[0m28934508 #033[36mmodule=#033[0mstate #033[36mnum_invalid_txs=#033[0m0 #033[36mnum_valid_txs=#033[0m0
+Oct 23 11:30:28 kichain kid[1266713]: #033[90m11:30AM#033[0m #033[32mINF#033[0m commit synced #033[36mcommit=#033[0m436F6D6D697449447B5B39203836203230382031313320323431203133392031303220393920313635203133382039352031373820302032323320323420313434203433203136392037203133352032323020333020323330203733203137302032303820313933203131302038312031323420313531203134325D3A314239383136437D
+Oct 23 11:30:28 kichain kid[1266713]: #033[90m11:30AM#033[0m #033[32mINF#033[0m committed state #033[36mapp_hash=#033[0m0956D071F18B6663A58A5FB200DF18902BA90787DC1EE649AAD0C16E517C978E #033[36mheight=#033[0m28934508 #033[36mmodule=#033[0mstate #033[36mnum_txs=#033[0m0
+Oct 23 11:30:28 kichain kid[1266713]: #033[90m11:30AM#033[0m #033[32mINF#033[0m indexed block exents #033[36mheight=#033[0m28934508 #033[36mmodule=#033[0mtxindex
+Oct 23 11:30:29 kichain kid[1266713]: #033[90m11:30AM#033[0m #033[32mINF#033[0m Ensure peers #033[36mmodule=#033[0mpex #033[36mnumDialing=#033[0m0 #033[36mnumInPeers=#033[0m20 #033[36mnumOutPeers=#033[0m9 #033[36mnumToDial=#033[0m1
+Oct 23 11:30:29 kichain kid[1266713]: #033[90m11:30AM#033[0m #033[32mINF#033[0m We need more addresses. Sending pexRequest to random peer #033[36mmodule=#033[0mpex #033[36mpeer=#033[0m{"Data":{},"Logger":{}}
+Oct 23 11:30:29 kichain kid[1266713]: #033[90m11:30AM#033[0m #033[32mINF#033[0m No addresses to dial. Falling back to seeds #033[36mmodule=#033[0mpex
+Oct 23 11:30:29 kichain kid[1266713]: #033[90m11:30AM#033[0m #033[32mINF#033[0m Dialing peer #033[36maddress=#033[0m{"id":"24cbccfa8813accd0ebdb09e7cdb54cff2e8fcd9","ip":"51.89.166.197","port":26656} #033[36mmodule=#033[0mp2p
+Oct 23 11:30:29 kichain kid[1266713]: #033[90m11:30AM#033[0m #033[1m#033[31mERR#033[0m#033[0m Error dialing seed #033[36merr=#033[0m"dial tcp 51.89.166.197:26656: connect: connection refused" #033[36mmodule=#033[0mp2p #033[36mseed=#033[0m{"id":"24cbccfa8813accd0ebdb09e7cdb54cff2e8fcd9","ip":"51.89.166.197","port":26656}
+Oct 23 11:30:29 kichain kid[1266713]: #033[90m11:30AM#033[0m #033[1m#033[31mERR#033[0m#033[0m Couldn't connect to any seeds #033[36mmodule=#033[0mp2p
+
