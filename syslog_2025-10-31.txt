@@ -108,3 +108,14 @@ Oct 31 12:12:04 kichain kid[1266713]: #033[90m12:12PM#033[0m #033[32mINF#033[0m 
 Oct 31 12:12:04 kichain kid[1266713]: #033[90m12:12PM#033[0m #033[32mINF#033[0m committed state #033[36mapp_hash=#033[0m50E9669A7D69F27D65AB8DB434AAEE393F9B62B9BE21FF4201CB3CD83C51608D #033[36mheight=#033[0m29058347 #033[36mmodule=#033[0mstate #033[36mnum_txs=#033[0m0
 Oct 31 12:12:04 kichain kid[1266713]: #033[90m12:12PM#033[0m #033[32mINF#033[0m indexed block exents #033[36mheight=#033[0m29058347 #033[36mmodule=#033[0mtxindex
 
+Oct 31 12:56:20 kichain kid[1266713]: #033[90m12:56PM#033[0m #033[32mINF#033[0m indexed block exents #033[36mheight=#033[0m29058827 #033[36mmodule=#033[0mtxindex
+Oct 31 12:56:22 kichain kid[1266713]: #033[90m12:56PM#033[0m #033[32mINF#033[0m service start #033[36mimpl=#033[0m"Peer{MConn{159.69.1.6:59084} 20e1000e88125698264454a884812746c2eb4807 in}" #033[36mmodule=#033[0mp2p #033[36mmsg=#033[0m{} #033[36mpeer=#033[0m{"id":"20e1000e88125698264454a884812746c2eb4807","ip":"159.69.1.6","port":59084}
+Oct 31 12:56:22 kichain kid[1266713]: #033[90m12:56PM#033[0m #033[32mINF#033[0m service start #033[36mimpl=#033[0mMConn{159.69.1.6:59084} #033[36mmodule=#033[0mp2p #033[36mmsg=#033[0m{} #033[36mpeer=#033[0m{"id":"20e1000e88125698264454a884812746c2eb4807","ip":"159.69.1.6","port":59084}
+Oct 31 12:56:22 kichain kid[1266713]: #033[90m12:56PM#033[0m #033[32mINF#033[0m Added peer #033[36mmodule=#033[0mp2p #033[36mpeer=#033[0m{"Data":{},"Logger":{}}
+Oct 31 12:56:25 kichain squid[1458781]: Logfile: opening log stdio:/var/spool/squid/netdb.state
+Oct 31 12:56:25 kichain squid[1458781]: Logfile: closing log stdio:/var/spool/squid/netdb.state
+Oct 31 12:56:25 kichain squid[1458781]: NETDB state saved; 0 entries, 1 msec
+Oct 31 12:56:25 kichain kid[1266713]: #033[90m12:56PM#033[0m #033[32mINF#033[0m Timed out #033[36mdur=#033[0m4943.25008 #033[36mheight=#033[0m29058828 #033[36mmodule=#033[0mconsensus #033[36mround=#033[0m0 #033[36mstep=#033[0m1
+Oct 31 12:56:25 kichain kid[1266713]: #033[90m12:56PM#033[0m #033[32mINF#033[0m received proposal #033[36mmodule=#033[0mconsensus #033[36mproposal=#033[0m{"Type":32,"block_id":{"hash":"8DDE3524AA6C2B22AFAC0B7FE7EF939F9F213DF5F547E04142AB0E05ECEA2917","parts":{"hash":"25492E0A6842E7504D78D25BC199D5027448724ECCE3F257546F9DC320835D67","total":1}},"height":29058828,"pol_round":-1,"round":0,"signature":"7yK0SmxoRj+Fk2Xs5a0Xu8p036B75D1cVGWwkFV5wddVVwD4IzBYWy02q+kb096Xlcag1lra13dSvxNFuKqgCw==","timestamp":"2025-10-31T12:56:25.727184577Z"}
+Oct 31 12:56:25 kichain kid[1266713]: #033[90m12:56PM#033[0m #033[32mINF#033[0m received complete proposal block #033[36mhash=#033[0m8DDE3524AA6C2B22AFAC0B7FE7EF939F9F213DF5F547E04142AB0E05ECEA2917 #033[36mheight=#033[0m29058828 #033[36mmodule=#033[0mconsensus
+
