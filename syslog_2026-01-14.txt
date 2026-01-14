@@ -251,3 +251,14 @@ Jan 14 19:57:22 kichain kid[1266713]: #033[90m7:57PM#033[0m #033[32mINF#033[0m s
 Jan 14 19:57:22 kichain kid[1266713]: #033[90m7:57PM#033[0m #033[32mINF#033[0m service start #033[36mimpl=#033[0mMConn{159.203.118.94:36294} #033[36mmodule=#033[0mp2p #033[36mmsg=#033[0m{} #033[36mpeer=#033[0m{"id":"c3712fcc0ff12148f3bdfd911dfc4e8ee1882cc1","ip":"159.203.118.94","port":36294}
 Jan 14 19:57:22 kichain kid[1266713]: #033[90m7:57PM#033[0m #033[32mINF#033[0m Added peer #033[36mmodule=#033[0mp2p #033[36mpeer=#033[0m{"Data":{},"Logger":{}}
 
+Jan 14 20:19:01 kichain kid[1266713]: #033[90m8:19PM#033[0m #033[32mINF#033[0m service start #033[36mimpl=#033[0mMConn{159.203.118.94:55798} #033[36mmodule=#033[0mp2p #033[36mmsg=#033[0m{} #033[36mpeer=#033[0m{"id":"c3712fcc0ff12148f3bdfd911dfc4e8ee1882cc1","ip":"159.203.118.94","port":55798}
+Jan 14 20:19:01 kichain kid[1266713]: #033[90m8:19PM#033[0m #033[32mINF#033[0m Added peer #033[36mmodule=#033[0mp2p #033[36mpeer=#033[0m{"Data":{},"Logger":{}}
+Jan 14 20:19:02 kichain kid[1266713]: #033[90m8:19PM#033[0m #033[32mINF#033[0m Inbound Peer rejected #033[36merr=#033[0m"filtered CONN<167.172.111.114:39228>: duplicate CONN<167.172.111.114:39228>" #033[36mmodule=#033[0mp2p #033[36mnumPeers=#033[0m29
+Jan 14 20:19:02 kichain kid[1266713]: #033[90m8:19PM#033[0m #033[32mINF#033[0m Ensure peers #033[36mmodule=#033[0mpex #033[36mnumDialing=#033[0m0 #033[36mnumInPeers=#033[0m22 #033[36mnumOutPeers=#033[0m7 #033[36mnumToDial=#033[0m3
+Jan 14 20:19:02 kichain kid[1266713]: #033[90m8:19PM#033[0m #033[32mINF#033[0m We need more addresses. Sending pexRequest to random peer #033[36mmodule=#033[0mpex #033[36mpeer=#033[0m{"Data":{},"Logger":{}}
+Jan 14 20:19:02 kichain kid[1266713]: #033[90m8:19PM#033[0m #033[32mINF#033[0m Dialing peer #033[36maddress=#033[0m{"id":"258f523c96efde50d5fe0a9faeea8a3e83be22ca","ip":"173.249.24.244","port":10267} #033[36mmodule=#033[0mp2p
+Jan 14 20:19:02 kichain kid[1266713]: #033[90m8:19PM#033[0m #033[32mINF#033[0m Saving AddrBook to file #033[36mbook=#033[0m/root/.kid/config/addrbook.json #033[36mmodule=#033[0mp2p #033[36msize=#033[0m30
+Jan 14 20:19:02 kichain kid[1266713]: #033[90m8:19PM#033[0m #033[32mINF#033[0m service start #033[36mimpl=#033[0m"Peer{MConn{173.249.24.244:10267} 258f523c96efde50d5fe0a9faeea8a3e83be22ca out}" #033[36mmodule=#033[0mp2p #033[36mmsg=#033[0m{} #033[36mpeer=#033[0m{"id":"258f523c96efde50d5fe0a9faeea8a3e83be22ca","ip":"173.249.24.244","port":10267}
+Jan 14 20:19:02 kichain kid[1266713]: #033[90m8:19PM#033[0m #033[32mINF#033[0m service start #033[36mimpl=#033[0mMConn{173.249.24.244:10267} #033[36mmodule=#033[0mp2p #033[36mmsg=#033[0m{} #033[36mpeer=#033[0m{"id":"258f523c96efde50d5fe0a9faeea8a3e83be22ca","ip":"173.249.24.244","port":10267}
+Jan 14 20:19:02 kichain kid[1266713]: #033[90m8:19PM#033[0m #033[32mINF#033[0m Added peer #033[36mmodule=#033[0mp2p #033[36mpeer=#033[0m{"Data":{},"Logger":{}}
+
